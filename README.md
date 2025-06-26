@@ -1,11 +1,11 @@
-# Capstone1
+# Hiker Registration & Payment Tracker
 python_capstone
 
 # Hiker Registration & Payment Tracker
 
 A beginner-friendly Python project for outdoor brands and adventure organizers. 
+Manual spreadsheets make it easy to lose track of partial payments and hiker contact details. This tool centralizes that workflow in one click-and-type desktop app.
 This Tkinter-based GUI application aims to help register hikers, track their payment status, simulate reminders for pending payments, and analyze registrations using basic data analysis tools.
-
 
 ## 🌟 Features
 
