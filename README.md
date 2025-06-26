@@ -1,7 +1,5 @@
 # Hiker Registration & Payment Tracker
-python_capstone
-
-# Hiker Registration & Payment Tracker
+H.R.P.T
 
 A beginner-friendly Python project for outdoor brands and adventure organizers. 
 Manual spreadsheets make it easy to lose track of partial payments and hiker contact details. This tool centralizes that workflow in one click-and-type desktop app.
