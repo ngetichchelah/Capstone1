@@ -8,6 +8,7 @@ This Tkinter-based GUI application aims to help register hikers, track their pay
 ## 🌟 Features
 
 *  Hiker Registration: Collects name, contact (phone/email), hike name, and payment status.
+*  Hiker details display
 *  Reminder Simulation: Partial payments trigger a simulated reminder 3 days later.
 *  Fun Facts: Each registration shows a random hiking fun fact (from a .txt file).
 *  Export to Excel: All hiker data can be saved to an Excel file.
@@ -18,7 +19,7 @@ This Tkinter-based GUI application aims to help register hikers, track their pay
 
 ## 🔄 How It Works
 
-* Admin enters hiker details (name, contact, hike, payment).
+* User enters hiker details (name, contact, hike, payment).
 * Upon submission:
 
   * Data is stored in a CSV file.
