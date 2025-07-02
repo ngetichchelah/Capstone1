@@ -13,7 +13,7 @@ This Tkinter-based GUI application aims to help register hikers, track their pay
 
 The goal is to build a real-world tool that uses file handling, GUI development, API integration, and data search/filtering — all essential programming concepts in one functional package.
 
-Planned Features
+### Planned Features
  * User input (e.g., name, contact, hike info)
  * Loops and conditionals
  * Functions and classes
@@ -21,8 +21,6 @@ Planned Features
  * Simple GUI (Tkinter)
  * External API (weather forecast)
  * Score or data tracking (via Treeview admin dashboard)
-
- Data visualization (planned future dashboard with matplotlib)
 
 ### Technologies / Concepts I Plan to Use
 * Python core (functions, loops, file I/O, conditionals)
@@ -53,5 +51,5 @@ The project is considered complete when:
 - Add SMS or email reminders using Twilio or SMTP
 - Automatically scrape and refresh fun facts online
 - Add user login system for hikers (to register/manage their bookings)
-
+- Data visualization (planned future dashboard with matplotlib)
  
